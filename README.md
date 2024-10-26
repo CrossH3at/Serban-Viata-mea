@@ -8,7 +8,7 @@ Eye tracking-ul poate fi descris ca o tehnică de înregistrare a mișcării och
 
 `	`Scurt istoric:
 
-![](Aspose.Words.ae0187df-f8f5-4160-9617-6086171e0a49.001.png)
+![](./imagini/Aspose.Words.ae0187df-f8f5-4160-9617-6086171e0a49.001.png)
 
 
 
@@ -18,7 +18,7 @@ Eye tracking-ul este prima și importantă sarcină a sistemului de urmărire a 
 **Pașii de dezvoltare pentru algoritmul de eye tracking:**
 
 
-![](Aspose.Words.ae0187df-f8f5-4160-9617-6086171e0a49.002.png)
+![](./imagini/Aspose.Words.ae0187df-f8f5-4160-9617-6086171e0a49.002.png)
 
 Proiectul nostru are ca scop dezvoltarea unei soluții de eye-tracking care să fie capabilă să detecteze și să urmărească, în timp real, direcția privirii unei persoane. Vom folosi tehnici avansate de prelucrare a imaginilor pentru a identifica poziția ochilor și a urmări mișcările acestora, bazându-ne pe imaginile capturate de o cameră video.
 
